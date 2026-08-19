@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Link modificado para exportar a aba "IMPORTRANGE - DO" direto como CSV
-URL_PLANILHA = "https://docs.google.com/spreadsheets/d/1VbH9ylKNU84leBxrh7brh2oC75YLIivFC7EfvJq7Wl4/export?format=csv&gid=479883165"
+URL_PLANILHA = "Coloque o link da planilha do google sheets" #essa parte é completamente facultativa, eu usei essa planilha_do.py, como um identificador de unidade a partir de uma planilha interna, a planilha que eu usei era um import range da outra planilha kkk
 
 # Nomes exatos baseados no seu print
 NOME_COLUNA_EDITAL = "Nº DA CONTRATAÇÃO"
